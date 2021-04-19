@@ -116,7 +116,7 @@ namespace TestSpeed
             stopWatch2.Stop();
             TimeSpan ts2 = stopWatch.Elapsed;
 
-            Console.WriteLine("RunTime Switch: " + ts2);
+            Console.WriteLine("Bendr je Bůh: -just a test-" + ts2);
             
         }
     }
